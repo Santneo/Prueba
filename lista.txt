@@ -2,3 +2,4 @@ cafe
 pan
 agua
 aceite
+aceitunas
