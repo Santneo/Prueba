@@ -5,3 +5,4 @@ aceite
 aceitunas
 coca-cola
 pizza
+gominolas
