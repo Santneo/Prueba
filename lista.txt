@@ -9,3 +9,4 @@ gominolas
 harina
 hamburguesas
 regalices
+chocolate
