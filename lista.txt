@@ -10,3 +10,5 @@ harina
 hamburguesas
 regalices
 chocolate
+platano
+naranja
