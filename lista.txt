@@ -12,3 +12,5 @@ regalices
 chocolate
 platano
 naranja
+Batidos de chocolate
+Pomelo
